@@ -4,6 +4,7 @@ public class Account {
     private long nationalId;
 
     public Account() {
+        this.amount = 0;
     }
 
     public void deposit(int amount){

@@ -10,7 +10,6 @@ public class Main {
 //        SemaphoreClass car1 = new SemaphoreClass(semaphore, direction1);
 //        SemaphoreClass car2 = new SemaphoreClass(semaphore, direction1);
 //        SemaphoreClass car3 = new SemaphoreClass(semaphore, direction2);
-
 //        car1.start();
 //        car2.start();
 //        car3.start();

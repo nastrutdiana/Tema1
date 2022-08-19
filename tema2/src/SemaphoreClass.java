@@ -10,6 +10,7 @@ public class SemaphoreClass extends Thread{
         this.threadDirection = threadDirection;
     }
 
+
     @Override
     public void run() {
         if(this.getName().equals("Nord-South")){
